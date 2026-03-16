@@ -1,0 +1,10 @@
+[init]
+	defaultBranch = none
+[fetch]
+	recurseSubmodules = false
+[credential]
+	interactive = never
+[gc]
+	autoDetach = false
+[include]
+	path = /home/ubuntu/gitlab/node-todo-cicd/builds/FyiIsv21a/0/tomarpraveen640/node-todo-cicd.tmp/.gitlab-runner.ext.conf
